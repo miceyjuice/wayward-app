@@ -1,0 +1,19 @@
+{
+  "name": "wayward-app",
+  "version": "1.0.0",
+  "description": "Web chat application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miceyjuice/wayward-app.git"
+  },
+  "author": "Paweł Szumiec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miceyjuice/wayward-app/issues"
+  },
+  "homepage": "https://github.com/miceyjuice/wayward-app#readme"
+}
